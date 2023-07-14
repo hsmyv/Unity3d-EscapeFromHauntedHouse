@@ -15,6 +15,7 @@ Overall, "Escape from Haunted House" is a thrilling horror game that will test y
 
 ![my game pictures (9)](https://user-images.githubusercontent.com/111653544/210224668-6d487dda-b19a-4ff2-b428-3c942abf3da5.jpg)
 ![my game pictures (10)](https://user-images.githubusercontent.com/111653544/210224674-b0a210d3-2f83-4a45-a13c-b504227c4327.jpg)
+![4](https://github.com/hsmyv/Unity3d-EscapeFromHauntedHouse/assets/111653544/b951b7cc-6d52-4f5e-b435-d019b4b22864)
 ![my game pictures (11)](https://user-images.githubusercontent.com/111653544/210224677-627df064-28b2-48a7-8820-317a725b26d2.jpg)
 ![my game pictures (12)](https://user-images.githubusercontent.com/111653544/210224679-f50dfb9c-1d76-4be8-a70c-dd2be1d53d4e.jpg)
 ![my game pictures (13)](https://user-images.githubusercontent.com/111653544/210224680-8563725a-e4d2-451f-b994-9216f5dadff0.jpg)
