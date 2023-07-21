@@ -1,6 +1,8 @@
 # Unity3d-EscapeFromHauntedHouse
 Download from Amazon Store: https://www.amazon.com/gp/product/B0C9YFS64C
 
+Download from Huawei AppGallery: https://appgallery.huawei.com/app/C108733555
+
 This is the first my game I created before 2 years for Android/IOS. 
 
 "Escape from Haunted House" is a spine-chilling horror game that will keep you on the edge of your seat. The game takes place in a mysterious and spooky haunted house, where you find yourself trapped and hunted by malevolent spirits. Your mission is to escape the house by solving puzzles, avoiding traps, and outsmarting the ghosts that haunt it.
